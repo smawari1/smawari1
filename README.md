@@ -6,6 +6,7 @@
 <h2>📑 Certifications</h2></h2>
 
 - [Google IT Support Professional](https://www.coursera.org/account/accomplishments/specialization/certificate/56XSGVNTNMXB)
+- [(ICS)2 Certified In Cybersecurity (CC)](https://media.licdn.com/dms/image/D4D2DAQFuYfjypN-QkA/profile-treasury-document-cover-images_1280/0/1719260267253?e=1720029600&v=beta&t=-iqWg2F1u2bYXzcFkbY9xsljFY6eE0GC-4QH8mEI7Z8)
 - [CCNA: Switching, Routing, and Wireless Essentials](https://www.credly.com/badges/6bcaa09b-d36f-4f4e-a739-9c9cafce7ecd/linked_in_profile)
 - [AIG - Shields Up: Cybersecurity Job Simulation](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/AIG/2ZFnEGEDKTQMtEv9C_AIG_5W4KRzxqGtm4ozf5A_1719274810651_completion_certificate.pdf)
 - [Telstra - Cybersecurity Job Simulation](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Telstra%20AU/RNhbu8QnDzthwynEf_Telstra_5W4KRzxqGtm4ozf5A_1718352228885_completion_certificate.pdf)
