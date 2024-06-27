@@ -2,7 +2,7 @@
 <h2>👨‍💻 Cybersecurity & Software Development Projects:</h2>
 
 -[Metasploit for Beginners: Ethical Penetration Testing](https://www.coursera.org/account/accomplishments/certificate/FTEWQACBUL5P) 
-
+-[Password Strength Tester - Python]
   
 <h2>📑 Certifications</h2></h2>
 
