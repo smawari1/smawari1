@@ -1,8 +1,8 @@
 <h1>Hi, I'm Shaqer!
-<h2>👨‍💻 Cybersecurity & Software Development Projects:</h2>
+<h2>👨‍💻 Cybersecurity & Software Development Projects:</h2></h2>
 
--[Metasploit for Beginners: Ethical Penetration Testing](https://www.coursera.org/account/accomplishments/certificate/FTEWQACBUL5P) 
--[Password Strength Tester - Python]
+ - [Metasploit for Beginners: Ethical Penetration Testing](https://www.coursera.org/account/accomplishments/certificate/FTEWQACBUL5P)
+ - [Password Strength Tester - Python](https://github.com/smawari1/PasswordStrengthTester-Python)
   
 <h2>📑 Certifications</h2></h2>
 
