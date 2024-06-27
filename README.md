@@ -1,6 +1,7 @@
 <h1>Hi, I'm Shaqer!
 <h2>👨‍💻 Cybersecurity & Software Development Projects:</h2>
 
+-[Metasploit for Beginners: Ethical Penetration Testing](https://www.coursera.org/account/accomplishments/certificate/FTEWQACBUL5P) 
 
   
 <h2>📑 Certifications</h2></h2>
