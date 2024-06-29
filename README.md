@@ -3,6 +3,7 @@
 
  - [Metasploit for Beginners: Ethical Penetration Testing](https://www.coursera.org/account/accomplishments/certificate/FTEWQACBUL5P)
  - [Password Strength Tester - Python](https://github.com/smawari1/PasswordStrengthTester-Python)
+ - [Conduct a Security Audit](https://github.com/smawari1/Conducting-a-security-audit)
   
 <h2>📑 Certifications</h2></h2>
 
