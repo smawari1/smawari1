@@ -4,6 +4,7 @@
  - [Metasploit for Beginners: Ethical Penetration Testing](https://www.coursera.org/account/accomplishments/certificate/FTEWQACBUL5P)
  - [Password Strength Tester - Python](https://github.com/smawari1/PasswordStrengthTester-Python)
  - [Conduct a Security Audit](https://github.com/smawari1/Google-Cybersecurity-Portfolio-Activities/tree/main/Conduct%20a%20Security%20Audit)
+ - [Use the NIST Cybersecurity Framework to respond to a security incident](https://github.com/smawari1/Google-Cybersecurity-Portfolio-Activities/tree/main/Use%20the%20NIST%20Cybersecurity%20Framework%20to%20respond%20to%20a%20security%20incident)
   
 <h2>📑 Certifications</h2></h2>
 
