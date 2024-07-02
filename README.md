@@ -5,7 +5,7 @@
  - [Password Strength Tester - Python](https://github.com/smawari1/PasswordStrengthTester-Python)
  - [Conduct a Security Audit](https://github.com/smawari1/Google-Cybersecurity-Portfolio-Activities/tree/main/Conduct%20a%20Security%20Audit)
  - [Use the NIST Cybersecurity Framework to respond to a security incident](https://github.com/smawari1/Google-Cybersecurity-Portfolio-Activities/tree/main/Use%20the%20NIST%20Cybersecurity%20Framework%20to%20respond%20to%20a%20security%20incident)
-  
+ - [Use Linux commands to manage file permissions](https://github.com/smawari1/Google-Cybersecurity-Portfolio-Activities/tree/main/Use%20Linux%20commands%20to%20manage%20file%20permissions)
 <h2>📑 Certifications</h2></h2>
 
 - [Google IT Support Professional](https://www.coursera.org/account/accomplishments/specialization/certificate/56XSGVNTNMXB)
